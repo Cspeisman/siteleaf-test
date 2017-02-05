@@ -1,7 +1,7 @@
 ---
-layout: default
 title: About
-permalink: /about/
+permalink: "/about/"
+layout: default
 ---
 
 It doesn't matter what comes, fresh goes better in life, with Mentos fresh and full of Life! Nothing gets to you, stayin' fresh, stayin' cool, with Mentos fresh and full of life! Fresh goes better! Mentos freshness! Fresh goes better with Mentos, fresh and full of life! Mentos! The Freshmaker!
